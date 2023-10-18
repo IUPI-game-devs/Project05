@@ -13,10 +13,9 @@ public class WaveSpawner : MonoBehaviour
     void Start()
     {
         InvokeRepeating("Spawn", startTime, spawnRate);
-        //Invoke("CancelInvoke", endTime);
-        
+        Invoke("CancelInvoke", endTime); 
     }
-
+    
     void Spawn(){
         Instantiate(prefab, transform.position, transform.rotation);
     }
