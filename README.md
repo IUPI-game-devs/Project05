@@ -29,21 +29,16 @@ Taking the class project, write an action matrix as an input guide for the robot
 
 ## 3. Components
 
-### Horizontal Movment and Vertical Movement
+### Horizontal Movement and Vertical Movement
 
-  photos and explanation
+photos and explanation
 
 ### Shoot
-  
 
 ### Jump
-  
 
 ### Look
 
 ### Dash
 
 ### Jump
-
-
-
