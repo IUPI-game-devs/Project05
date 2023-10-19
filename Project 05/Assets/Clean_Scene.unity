@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.17694376, g: 0.22149742, b: 0.30377805, a: 1}
+  m_IndirectSpecularColor: {r: 0.17694333, g: 0.22149685, b: 0.30377692, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1732,6 +1732,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Shooter
       objectReference: {fileID: 0}
+    - target: {fileID: 2098433000720114758, guid: a7cb0d8db401c8e479d974a8da0f3719, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5977482410924181409, guid: a7cb0d8db401c8e479d974a8da0f3719, type: 3}
       propertyPath: m_LocalPosition.x
       value: 16.33
@@ -1926,7 +1930,8 @@ PrefabInstance:
       propertyPath: m_ActionEvents.Array.data[13].m_ActionName
       value: UI/TrackedDeviceOrientation
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5595120427628692100, guid: a7cb0d8db401c8e479d974a8da0f3719, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
