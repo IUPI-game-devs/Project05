@@ -25,3 +25,25 @@ Taking the class project, write an action matrix as an input guide for the robot
 | Look                  | Mouse movement                                |
 | Fast horizontal movement | Shift key, gamepad trigger                   |
 | Fast vertical movement   | Shift key, gamepad trigger                   |
+
+
+## 3. Components
+
+### Horizontal Movment and Vertical Movement
+
+  photos and explanation
+
+### Shoot
+  
+
+### Jump
+  
+
+### Look
+
+### Dash
+
+### Jump
+
+
+
