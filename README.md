@@ -2,6 +2,14 @@
 
 By: Luis Velázquez Sosa, Edward Garcia y Bryan Guevara
 
+### Temas Incorporados
+- Manipulación de Primitivos y Compuestos
+- Jerarquías, clonaciones y prefabricados
+- Colisionadores (colliders)
+- Programación por eventos
+- Física de los objetos
+- Edición de materiales – Iluminación
+
 # Course Project Readme
 
 Welcome to the course project! Here's a guide to get you started with various tasks.
